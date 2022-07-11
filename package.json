@@ -1,0 +1,15 @@
+{
+  "name": "basicapi",
+  "version": "1.0.0",
+  "description": "basic app",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "start": "node app/server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
